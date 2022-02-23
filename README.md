@@ -12,3 +12,5 @@ Also, for better visualisation, graphs have been plotted using Matplotlib wherev
 3.) The notebook will open in Google Colab. Just make sure you are signed in and connected to runtime.</br>
 4.) Now simply run each cell to get the desired output.</br>
 
+**NOTE: Since the code runs in Google Colab, there is no need of a requirements.txt file for PIP. Anything required has been handled in the code itself.
+
